@@ -1,3 +1,4 @@
 # One Month Rails
 This is the pinteresting sample application for
-[*One Month Rails*] Not gonna market for them
+[*Moby Monkey*] (https://mobymonkey.com)
+by [John Cossack]
