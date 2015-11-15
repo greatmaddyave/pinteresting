@@ -1,6 +1,8 @@
 source 'https://rubygems.org'
 '2.0.0'
 
+	#IF ANY CHANGES MADE RUN BUNDLE "BUNDLE INSTALL"
+gem 'devise', '3.1.0.rc2'
 gem 'rails', '4.2.4'
 gem 'sass-rails', '~> 5.0'
 gem 'uglifier', '>= 1.3.0'
